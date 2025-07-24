@@ -78,7 +78,7 @@ Este proyecto genera varios análisis y visualizaciones basados en los datos ext
 
 ### 4. Top 5 Productos con Mayor Descuento
 
-![Top 5 Productos con Mayor Descuento](imagenesTop_5_productos_con_mayor_descuento.jpeg)
+![Top 5 Productos con Mayor Descuento](imagenes/Top_5_productos_con_mayor_descuento.jpeg)
 
 ### 5. Distribución de Descuentos
 
