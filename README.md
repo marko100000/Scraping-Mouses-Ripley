@@ -66,23 +66,23 @@ Este proyecto genera varios análisis y visualizaciones basados en los datos ext
 
 ### 1. Correlación entre Precio Regular y Precio de Oferta
 
-![Correlación entre Precio Regular y Precio de Oferta](imagenes/correlacion_precio.jpeg)
+![Correlación entre Precio Regular y Precio de Oferta](imagenes/Correlación_entre_precio_regular_y_precio_de_oferta.jpeg)
 
 ### 2. Productos con Precio Oferta Menor a 50 Soles
 
-![Productos con Precio Oferta Menor a 50 Soles](imagenes/precio_oferta_menor_50.jpeg)
+![Productos con Precio Oferta Menor a 50 Soles](imagenes/Productos_con_precio_oferta_menor_a_50_soles_10.jpeg)
 
 ### 3. Promedio de Descuento por Marca
 
-![Promedio de Descuento por Marca](imagenes/promedio_descuento_por_marca.jpeg)
+![Promedio de Descuento por Marca](imagenes/Promedio_de_descuento_por_marca.jpeg)
 
 ### 4. Top 5 Productos con Mayor Descuento
 
-![Top 5 Productos con Mayor Descuento](imagenes/top_5_descuento.jpeg)
+![Top 5 Productos con Mayor Descuento](imagenesTop_5_productos_con_mayor_descuento.jpeg)
 
 ### 5. Distribución de Descuentos
 
-![Distribución de Descuentos](imagenes/distribucion_descuentos.jpeg)
+![Distribución de Descuentos](imagenes/Distribucion_de_descuentos.jpeg)
 
 ## Ejecución
 
